@@ -1,5 +1,6 @@
 import React from 'react';
-import StyledRow from './ColorsStyles';
+import { Colors } from '@lawrence/ui-lib';
+import StyledRow from "./ColorsStyles";
 
 const renderColor = name => {
   return (
